@@ -1,4 +1,4 @@
-![logo](https://github.com/AdityaSharma2028/AdityaSharma2028/blob/main/1734775420454.jpeg)
+![logo](https://github.com/AdityaSharma2028/AdityaSharma2028/blob/main/linkedin%20banner.jpg)
 <h1 align="center">🚀 Hey there! I’m Aditya Sharma, a Computer Science undergrad specializing in Artificial Intelligence. 💡 Passionate about AI, 🤖 ML, and next-gen tech, I’m focused on mastering algorithms, 🧠 ML models, and ☁ cloud computing while building innovative projects. Let’s revolutionize tech together! 🌟✨</h1>
 <h3 align="center">An AI enthusiast on a mission to shape the future of intelligent systems</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/AdityaSharma2028/AdityaSharma2028/blob/main/developer.gif">
