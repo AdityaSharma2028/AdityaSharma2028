@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/AdityaSharma2028/AdityaSharma2028/blob/main/developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharma2028&label=Profile%20views&color=0e75b6&style=flat" alt="adityasharma2028" /> </p>
 
-- 🌱 I’m currently learning *Python , C/C++ , Java , Javascript*
+- 🌱 I’m currently learning *Python , C/C++*
 
 - 👨‍💻 All of my certifications are available at [linkedin.com/in/aditya-sharma-02764231a](linkedin.com/in/aditya-sharma-02764231a)
 
