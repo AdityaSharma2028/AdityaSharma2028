@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python , C/C++ , Java , Javascript**
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/aditya-sharma-02764231a](linkedin.com/in/aditya-sharma-02764231a)
+- 👨‍💻 All of my certifications are available at [linkedin.com/in/aditya-sharma-02764231a](linkedin.com/in/aditya-sharma-02764231a)
 
 - 💬 Ask me about **Python , AI/ML**
 
