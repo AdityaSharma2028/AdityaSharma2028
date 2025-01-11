@@ -1,6 +1,6 @@
 ![logo](https://github.com/AdityaSharma2028/AdityaSharma2028/blob/main/1734775420454.jpeg)
-<h1 align="center">Hi👋 , I'm Aditya Sharma, an AI enthusiast and a Computer Science undergrad specializing in Artificial Intelligence</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center">🚀 Hey there! I’m Aditya Sharma, a Computer Science undergrad specializing in Artificial Intelligence. 💡 Passionate about AI, 🤖 ML, and next-gen tech, I’m focused on mastering algorithms, 🧠 ML models, and ☁️ cloud computing while building innovative projects. Let’s revolutionize tech together! 🌟✨</h1>
+<h3 align="center">An AI enthusiast on a mission to shape the future of intelligent systems</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/AdityaSharma2028/AdityaSharma2028/blob/main/developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharma2028&label=Profile%20views&color=0e75b6&style=flat" alt="adityasharma2028" /> </p>
 
